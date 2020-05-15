@@ -1,0 +1,72 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Range and For loop/ForEachIndexed/build/
+/Coroutines/latihan/Latihan/build/
+/Data Class dan Collections/Data Class/Data Class/build/
+/Data Class dan Collections/Latihan/latihan/build/
+/Functional/Latihan/Latihan/build/
+/Functional/Library Helper/run/build/
+/Functional/Library Helper/with/build/
+/Generics/Latihan/Latihan/build/
+/Kotlin Fundamental/Boolean/Conjuction/build/
+/Kotlin Fundamental/Data Type/Array Initialization/build/
+/Kotlin Fundamental/Data Type/Char in String/build/
+/Kotlin Fundamental/Data Type/Character/build/
+/Kotlin Fundamental/Data Type/Escaped String/build/
+/Kotlin Fundamental/Data Type/Raw String/build/
+/Kotlin Fundamental/Data Type/String/build/
+/Kotlin Fundamental/Data Type/Unicode String/build/
+/Kotlin Fundamental/Data Type/Update Array/build/
+/Kotlin Fundamental/Function/Function Initilization/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/
+/Kotlin Fundamental/If Expression/If/build/
+/Kotlin Fundamental/If Expression/If Else/build/
+/Kotlin Fundamental/If Expression/If Else If/build/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Object-Oriented/Constructor/Contoh 3/out/
+/Object-Oriented/Constructor/Contoh 3/out/production/classes/
+/Object-Oriented/Constructor/Contoh 4/out/
+/Object-Oriented/Constructor/Contoh 4/out/production/classes/
+/Object-Oriented/Exception Handling/Contoh 1/out/
+/Object-Oriented/Exception Handling/Contoh 1/out/production/classes/
+/Object-Oriented/Exception Handling/Contoh 2/out/
+/Object-Oriented/Exception Handling/Contoh 2/out/production/classes/
+/Object-Oriented/Exception Handling/Contoh 3/out/
+/Object-Oriented/Exception Handling/Contoh 3/out/production/classes/
+/Object-Oriented/Extension Properties/Contoh/out/
+/Object-Oriented/Extension Properties/Contoh/out/production/classes/
+/Object-Oriented/Import dan Packages/Contoh 1/out/
+/Object-Oriented/Import dan Packages/Contoh 1/out/production/classes/
+/Object-Oriented/Import dan Packages/Contoh 2/out/
+/Object-Oriented/Import dan Packages/Contoh 2/out/production/classes/
+/Object-Oriented/Import dan Packages/Contoh 2/out/test/classes/
+/Object-Oriented/Import dan Packages/Contoh 3/out/
+/Object-Oriented/Import dan Packages/Contoh 3/out/production/classes/
+/Object-Oriented/Inheritances/Contoh/out/
+/Object-Oriented/Inheritances/Contoh/out/production/classes/
+/Object-Oriented/Interfaces/Contoh/out/
+/Object-Oriented/Interfaces/Contoh/out/production/classes/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Object Everywhere/Contoh 1/out/
+/Object-Oriented/Object Everywhere/Contoh 1/out/production/classes/
+/Object-Oriented/Object Everywhere/Contoh 2/out/
+/Object-Oriented/Object Everywhere/Contoh 2/out/production/classes/
+/Object-Oriented/Overloading/Contoh/out/
+/Object-Oriented/Overloading/Contoh/out/production/classes/
+/Object-Oriented/Properties/Contoh/out/
+/Object-Oriented/Properties/Contoh/out/production/classes/
+/Object-Oriented/Property Delegation/Contoh/out/
+/Object-Oriented/Property Delegation/Contoh/out/production/classes/
+/Object-Oriented/Visibility Modifiers/internal/out/
+/Object-Oriented/Visibility Modifiers/internal/out/production/classes/
+/Object-Oriented/Visibility Modifiers/private/out/
+/Object-Oriented/Visibility Modifiers/private/out/production/classes/
+/Object-Oriented/Visibility Modifiers/protected/out/
+/Object-Oriented/Visibility Modifiers/protected/out/production/classes/
+/Object-Oriented/Visibility Modifiers/public/out/
+/Object-Oriented/Visibility Modifiers/public/out/production/classes/
